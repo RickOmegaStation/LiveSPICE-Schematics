@@ -5,6 +5,8 @@ Repository for all the LiveSPICE schematics I made so far.
 PEDALS MODELS LIST:
 
 
+BAT Witch Burner --> based on Moonn Electronics Wicked schematic, a Black Arts Toneworks Witch Burner clone
+
 BMP Ram --> based on EHX Big Muff Pi Ram's Head
 
 BMP NYC --> based on EHX Big Muff Pi NYC Reissue
