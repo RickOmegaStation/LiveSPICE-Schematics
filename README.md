@@ -49,8 +49,25 @@ PEDALS MODELS LIST:
 
 3) Fuzz pedals
 
+   BAT Ritual Clone --> a Black Arts Toneworks Ritual one knob fuzz clone
 
-4) Overdrive pedals
+   DAM Meathead Clone
+
+   DAM Meathead Dark Clone
+
+
+4) Distortion pedals
+
+   Pro Co RAT Clone
+
+   Pro Co RAT 2 Clone
+
+   Pro Co Turbo RAT Clone
+
+   Pro Co You Dirty Rat Clone
+   
+   
+6) Overdrive pedals
 
     BAT Witch Burner --> based on Moonn Electronics Wicked schematic, a Black Arts Toneworks Witch Burner clone
 
